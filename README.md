@@ -1,2 +1,4 @@
-# testing-of-html
-want to test html coding in github
+<html>
+<head>My first project</head>
+<body>It is for testing the codes</body>
+</html>
